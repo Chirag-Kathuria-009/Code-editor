@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Code-editor/static/css/main.326152f7.chunk.css",
+    "main.js": "/github.io/Code-editor/static/js/main.3b5a1ab6.chunk.js",
+    "main.js.map": "/github.io/Code-editor/static/js/main.3b5a1ab6.chunk.js.map",
+    "runtime-main.js": "/github.io/Code-editor/static/js/runtime-main.1851e681.js",
+    "runtime-main.js.map": "/github.io/Code-editor/static/js/runtime-main.1851e681.js.map",
+    "static/css/2.8ab860fe.chunk.css": "/github.io/Code-editor/static/css/2.8ab860fe.chunk.css",
+    "static/js/2.44637f26.chunk.js": "/github.io/Code-editor/static/js/2.44637f26.chunk.js",
+    "static/js/2.44637f26.chunk.js.map": "/github.io/Code-editor/static/js/2.44637f26.chunk.js.map",
+    "index.html": "/github.io/Code-editor/index.html",
+    "precache-manifest.e31fb963ac11921842e2a4de8c542f38.js": "/github.io/Code-editor/precache-manifest.e31fb963ac11921842e2a4de8c542f38.js",
+    "service-worker.js": "/github.io/Code-editor/service-worker.js",
+    "static/css/2.8ab860fe.chunk.css.map": "/github.io/Code-editor/static/css/2.8ab860fe.chunk.css.map",
+    "static/css/main.326152f7.chunk.css.map": "/github.io/Code-editor/static/css/main.326152f7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1851e681.js",
+    "static/css/2.8ab860fe.chunk.css",
+    "static/js/2.44637f26.chunk.js",
+    "static/css/main.326152f7.chunk.css",
+    "static/js/main.3b5a1ab6.chunk.js"
+  ]
+}
